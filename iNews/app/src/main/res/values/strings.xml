@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">iNews</string>
+    <string name="no_news">No news found</string>
+    <string name="no_internet">No Internet Connection.</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_search_by_topic">topics</string>
+    <string name="settings_search_by_defaultValue">@string/settings_politicics_value</string>
+    <string name="settings_title">News Topic</string>
+    <string name="settings_search_by_key">section</string>
+    <string name="settings_search_by_title">Topics</string>
+    <!--values for search-->
+    <string name="settings_politicics_value">Politics</string>
+    <string name="settings_economy_value">Economy</string>
+    <string name="settings_history_value">History</string>
+
+    <!--keys for search-->
+    <string name="settings_politics_key">politics</string>
+    <string name="settings_economy_key">economy</string>
+    <string name="settings_history_key">history</string>
+
+
+
+</resources>

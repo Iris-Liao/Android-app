@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Inventory Master</string>
+    <!-- Title text for the empty view, which describes the empty dog house image [CHAR LIMIT=50] -->
+    <string name="empty_view_title_text">It\'s a bit lonely here...</string>
+
+    <!-- Subtitle text for the empty view that prompts the user to add a pet [CHAR LIMIT=50] -->
+    <string name="empty_view_subtitle_text">Get started by adding a product</string>
+    <string name="action_delete_all_entries">Delete All</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="editor_activity_title_new_product">Add a product</string>
+    <!-- Label for overview category of attributes in the editor [CHAR LIMIT=30] -->
+    <string name="necessary_msg">* is required</string>
+    <string name="category_overview">Overview</string>
+    <string name="product_name">Name</string>
+    <string name="hint_product_name">*Name required</string>
+    <string name="product_price">Price</string>
+    <string name="hint__product_price">*Price required</string>
+    <string name="product_supplier">Supplier</string>
+    <string name="hint__product_supplier">*Supplier required</string>
+    <string name="current_quantity">Current Quantity</string>
+    <string name="hint_current_quantity">*Quantity required</string>
+    <string name="order_more_button">Order More</string>
+    <string name="delete_all_products_msg">Delete all products?</string>
+    <string name="delete_all_positive_button">Cancel</string>
+    <string name="delete_all_negative_button">Delete All</string>
+    <string name="editor_discard_negative_button">Discard</string>
+    <string name="editor_delete_negative_button">Delete</string>
+    <string name="delete_all_successful">All Deleted!</string>
+    <string name="delete_all_failed">Delete failed!</string>
+    <string name="editor_delete_succeed">Delete finished!</string>
+    <string name="edit_product">Edit Product</string>
+    <string name="email_address">lemoncount95@gmail.com</string>
+    <string name="order_for">[InventoryMaster] Order For: </string>
+    <string name="needed_quantity">Quantity Needed: </string>
+    <string name="delete_product_msg">Delete this product?</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="error_saving_product">Error with saving product</string>
+    <string name="product_saved">Product Saved</string>
+    <string name="photo_positive_button">Take from Camera</string>
+    <string name="photo_negative_button">Take from Photo Library</string>
+    <string name="fail_get_photo">Fail to get product photo</string>
+</resources>
